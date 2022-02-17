@@ -1,4 +1,4 @@
-name = input('VVEdite ima: ')
+name = input('VVEdite imadthyh: ')
 age = int(input("Введите возраст: "))
 name_letters = list(name)
 not_space = True
